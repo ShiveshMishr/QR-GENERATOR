@@ -1,0 +1,25 @@
+{
+  "name": "qr_generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shivesh",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "inquirer": "^9.2.11",
+    "qr-image": "^3.2.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShiveshMishr/QR-GENERATOR.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ShiveshMishr/QR-GENERATOR/issues"
+  },
+  "homepage": "https://github.com/ShiveshMishr/QR-GENERATOR#readme",
+  "description": ""
+}
